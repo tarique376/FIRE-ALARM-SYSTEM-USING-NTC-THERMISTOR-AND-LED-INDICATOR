@@ -19,15 +19,15 @@ Features
     Powered by a 9V battery
 
 Components Used
-  Component	Description
-  NTC Thermistor (10k)	Temperature sensor
-  LM358	Dual operational amplifier IC
-  Potentiometer (10k)	For reference voltage adjustment
-  Resistors (10k, 220Ω)	Voltage divider and LED current limiting
-  Red LED	Visual indicator
-  Buzzer	Audio alert
-  9V Battery	Power supply
-  Breadboard, wires	Prototyping hardware
+
+        NTC Thermistor (10k) :	Temperature sensor
+        LM358 :	Dual operational amplifier IC
+        Potentiometer (10k) :	For reference voltage adjustment
+        Resistors (10k, 220Ω) :	Voltage divider and LED current limiting
+        Red LED :	Visual indicator
+        Buzzer :	Audio alert
+        9V Battery :	Power supply
+        Breadboard and wires :	Prototyping hardware
 
 Working Principle
 
@@ -60,3 +60,15 @@ Future Enhancements
     Add a GSM module to send SMS alerts
 
     Integrate with IoT platforms for real-time monitoring
+
+    
+
+My Team Members
+
+We are proud to present this project as part of our team collaboration.
+
+    Muhammad Tarique Saand https://github.com/tarique376
+    Mokash Kumar https://github.com/mokashkumar1
+    Naveed Narain https://github.com/naveednarain
+    Dileep Kumar
+
