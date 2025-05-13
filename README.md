@@ -5,6 +5,7 @@ This project demonstrates a simple and low-cost fire alarm system using an NTC (
 Overview
 
 The system uses a voltage divider with an NTC thermistor to detect temperature changes. An LM358 op-amp is configured as a comparator to compare the thermistor voltage against a preset threshold set via a potentiometer. When the thermistor senses high temperature, the comparator triggers a buzzer and LED to alert nearby individuals.
+
 Features
 
     Temperature-based fire detection using NTC thermistor
